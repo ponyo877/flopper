@@ -1,3 +1,4 @@
+import './index.css';
 import { useGameState } from './hooks/useGameState';
 import DealerField from './components/DealerField';
 import PlayerField from './components/PlayerField';
